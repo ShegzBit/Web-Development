@@ -35,13 +35,13 @@ Web Development
 * *_And a few more_*
 
 ### Some of the Projects built include
-A personal HTML website
-A CV website using CSS
-A few tinder copycat website TINDOG using Boostrap
-A Dice Game
-A Simon Game
-A Blog Website
-Upgrading the blog website to update from data in real time
+* A personal HTML website
+* A CV website using CSS
+* A few tinder copycat website TINDOG using Boostrap
+* A Dice Game
+* A Simon Game
+* A Blog Website
+* Upgrading the blog website to update from data in real time
 *_And a few more_*
 
 *This Course aims to train learners with the basic skills needed to build and deploy simple web applications_*
